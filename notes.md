@@ -46,3 +46,4 @@
 ![access levels](image.png)
 * should look up streams vs iterators
   * have a look at: [stackoverflow](https://stackoverflow.com/questions/31210791/iterator-versus-stream-of-java-8)
+* run using `./gradlew bootRun`
